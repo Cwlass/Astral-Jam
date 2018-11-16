@@ -36,6 +36,8 @@ sysinfo.txt
 
 [Ee]xportedObj/
 
+*.vs
+
 *.booproj
 
 *.csproj
