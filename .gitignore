@@ -4,6 +4,8 @@
 
 ###
 
+[Ss]ader*
+
 [Aa]ssets/AssetStoreTools*
 
 [Bb]uild/
@@ -35,6 +37,8 @@ sysinfo.txt
 ###
 
 [Ee]xportedObj/
+
+*.vs
 
 *.booproj
 
